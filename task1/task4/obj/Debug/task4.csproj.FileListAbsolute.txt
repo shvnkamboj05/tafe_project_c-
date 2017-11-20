@@ -1,0 +1,8 @@
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\bin\Debug\task4.exe.config
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\bin\Debug\task4.exe
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\bin\Debug\task4.pdb
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\obj\Debug\task4.csprojResolveAssemblyReference.cache
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\obj\Debug\task4.exe
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\obj\Debug\task4.pdb
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\obj\Debug\task4.csproj.GenerateResource.Cache
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\task4\obj\Debug\ClientNew.resources

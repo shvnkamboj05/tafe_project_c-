@@ -1,0 +1,10 @@
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\bin\Debug\Task2-Console.exe.config
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\bin\Debug\Task2-Console.exe
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\bin\Debug\Task2-Console.pdb
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\bin\Debug\task1.exe
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\bin\Debug\task1.pdb
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\obj\Debug\Task2-Console.csprojResolveAssemblyReference.cache
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\obj\Debug\Task2-Console.exe
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\obj\Debug\Task2-Console.pdb
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\obj\Debug\Task2_Console.Result.resources
+C:\Users\Shivani.Shivani-Ankur\Documents\Visual Studio 2013\Projects\task1\Task2-Console\obj\Debug\Task2-Console.csproj.GenerateResource.Cache
